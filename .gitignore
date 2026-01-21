@@ -6,7 +6,7 @@ node_modules/
 # Testing
 /coverage
 
-# Production
+# Production 
 /build
 
 # Misc
@@ -23,7 +23,7 @@ yarn-error.log*
 # Editor directories and files
 .vscode/
 .idea/
-*.swp
+*.swp 
 *.swo
 *~
 .project
